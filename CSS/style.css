@@ -1,0 +1,18 @@
+.love{
+    font-size: 30px;
+    position: absolute;
+    left: 30px;
+    top: 40px;
+}
+
+.btn_yes{
+    position: absolute;
+    top: 90px;
+    left: 90px;
+}
+
+.btn_no {
+    position: absolute;
+    top: 90px;
+    left: 150px;
+}
